@@ -44,6 +44,9 @@ header {
         margin: 4px;
         border-radius: 2px;
     }
+    .hamburger:hover{
+        opacity: 0.4;
+    }
 }
 
 .nav {
@@ -66,7 +69,6 @@ header {
         background-color: #0B0B0B;
         z-index: 9999;
     }
-    
     .navlink{
         opacity: 0%;
     }
