@@ -1,3 +1,4 @@
+// Hamburger Animation Start//
 const navSlide = () => {
     const burger = document.querySelector('.hamburger');
     const nav = document.querySelector('.nav');
@@ -20,5 +21,5 @@ const navSlide = () => {
         burger.classList.toggle('toggle');
     });
 }
-
 navSlide();
+// Hamburger Animation End//
